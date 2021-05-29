@@ -15,10 +15,11 @@
 4. Right-click on the "app.asar" file, hover on 7-Zip, then click on "Open Archive"
 5. Once the archive has opened, in 7-Zip, open the "dist" folder
 6. Look for the "renderer.03bb8a88ac505c91fa35.css", then delete it
-7. Replace it with the file of the same name from this repo
-8. Open FreeTube, then go to Settings
-9. Scroll down to "Theme Settings", then change into the following parameters:
+   6.1. If you're using FreeTube version 0.13.0 beta, the file you have to delete is "renderer.f4905516da6654a1c9e9.css"
+8. Replace it with the file of the same name from this repo
+9. Open FreeTube, then go to Settings
+10. Scroll down to "Theme Settings", then change into the following parameters:
    1. Base Theme: Black
    2. Main Color Theme: Cyan
    3. Secondary Color Theme: Cyan
-10. If all works correctly, then you should have applied the Nord theme by now. Enjoy!
+11. If all works correctly, then you should have applied the Nord theme by now. Enjoy!
